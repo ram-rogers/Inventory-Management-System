@@ -36,4 +36,3 @@ The system supports authentication, role-based access, dashboards, and complete 
 
 ---
 
-## 📁 Project Structure
